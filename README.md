@@ -18,7 +18,7 @@ $(npm bin)/jest
 
 The package also provides some CLI executables:
 
-- `test` runs Jest
+- `test-run` runs Jest
 
 - `test-coverage` collects coverage data
 
@@ -31,7 +31,7 @@ To use these executables, add some scripts to your `package.json`:
 ```json
 ...
 "scripts": {
-  "test": "test",
+  "test": "test-run",
   "test:coverage": "test-coverage",
   "test:coverage:check": "test-coverage-check",
   "test:report": "test-report"
