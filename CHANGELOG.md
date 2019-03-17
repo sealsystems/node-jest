@@ -1,3 +1,14 @@
+## 1.0.0 (2019-03-17)
+
+### Features
+
+
+#### Initial commit ([48ea47a](https://github.com/sealsystems/node-test-config-jest/commit/48ea47a))
+
+
+
+---
+
 ## 3.2.2 (2019-03-17)
 
 ### Bug Fixes
