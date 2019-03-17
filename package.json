@@ -9,7 +9,7 @@
   },
   "license": "MIT",
   "bin": {
-    "test": "bin/test",
+    "test": "bin/test-run",
     "test-coverage": "bin/test-coverage",
     "test-coverage-check": "bin/test-coverage-check",
     "test-report": "bin/test-report"
