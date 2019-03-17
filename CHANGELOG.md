@@ -1,3 +1,14 @@
+## 1.0.5 (2019-03-17)
+
+### Bug Fixes
+
+
+#### Rename script test to test-run ([496dfb1](https://github.com/sealsystems/node-test-config-jest/commit/496dfb1))
+
+
+
+---
+
 ## 1.0.4 (2019-03-17)
 
 ### Bug Fixes
