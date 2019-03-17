@@ -1,3 +1,14 @@
+## 1.0.2 (2019-03-17)
+
+### Bug Fixes
+
+
+#### Fix naming error in test script ([dc2000c](https://github.com/sealsystems/node-test-config-jest/commit/dc2000c))
+
+
+
+---
+
 ## 1.0.1 (2019-03-17)
 
 ### Bug Fixes
