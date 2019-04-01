@@ -1,7 +1,7 @@
 {
   "name": "@sealsystems/jest",
   "version": "2.0.0",
-  "description": "Test configuration for Jest at SEAL Systems",
+  "description": "Jest executable and test configuration for SEAL Systems",
   "author": {
     "name": "SEAL Systems AG",
     "email": "opensource@sealsystems.de",
