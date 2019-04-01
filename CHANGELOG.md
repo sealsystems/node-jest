@@ -11,7 +11,7 @@
 
 #### Configuration changes needed
 
-You must change the dependency in you package.json from
+You must change the dependency in your package.json from
 
 ```
    "@sealsystems/test-config-jest": "a.b.c"
