@@ -1,11 +1,11 @@
 # @sealsystems/test-config-mocha
 
-Test configuration for Jest at SEAL Systems
+Jest executable and test configuration for SEAL Systems
 
 ## Installation
 
 ```bash
-npm install --save-dev @sealsystems/test-config-jest
+npm install --save-dev @sealsystems/jest
 ```
 
 ## Quick start
@@ -15,6 +15,10 @@ Jest is installed as a dependency of `@sealsystems/test-config-mocha`. So you ca
 ```shell
 $(npm bin)/jest
 ```
+
+Please note:
+
+- In order to install all dependencies directly in the project's `node_modules` folder, you may need to delete `package-lock.json` before adding this package.
 
 The package also provides some CLI executables:
 
