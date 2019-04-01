@@ -14,13 +14,13 @@
 You must change the dependency in you package.json from
 
 ```
-   "@sealsystems/test-config-mocha": "a.b.c"
+   "@sealsystems/test-config-jest": "a.b.c"
 ```
 
 to 
 
 ```
-   "@sealsystems/mocha": "x.y.z"
+   "@sealsystems/jest": "x.y.z"
 ```
 
 in order to use the new version.
