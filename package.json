@@ -1,5 +1,5 @@
 {
-  "name": "@sealsystems/test-config-jest",
+  "name": "@sealsystems/jest",
   "version": "1.0.5",
   "description": "Test configuration for Jest at SEAL Systems",
   "author": {
@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sealsystems/node-test-config-jest.git"
+    "url": "https://github.com/sealsystems/node-jest.git"
   },
   "dependencies": {
     "jest": "24.5.0",
