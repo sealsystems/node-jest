@@ -1,3 +1,14 @@
+## 2.0.1 (2019-04-01)
+
+### Chores
+
+
+#### Update dependencies ([68db138](https://github.com/sealsystems/node-jest/commit/68db138))
+
+
+
+---
+
 ## 2.0.0 (2019-04-01)
 
 ### Features
