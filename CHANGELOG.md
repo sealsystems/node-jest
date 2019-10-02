@@ -1,3 +1,14 @@
+## 2.0.2 (2019-10-02)
+
+### Chores
+
+
+#### bump jest from 24.5.0 to 24.9.0 ([5e930d8](https://github.com/sealsystems/node-jest/commit/5e930d8))
+
+
+
+---
+
 ## 2.0.1 (2019-04-01)
 
 ### Chores
